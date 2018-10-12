@@ -13,3 +13,7 @@
 - Bulma 155KB (sass) https://github.com/jgthms/bulma
 - UIkit 242KB (less/sass) https://github.com/uikit/bower-uikit/
 - Semantic 613KB (less) https://github.com/Semantic-Org
+
+## Example
+
+A working example, visit this site: https://tomik23.github.io/simple-comparison/index.html
