@@ -16,4 +16,4 @@
 
 ## Example
 
-A working example, visit this site: https://tomik23.github.io/simple-comparison/index.html
+A working example, visit this site: https://tomik23.github.io/simple-comparison-css-framework/index.html
